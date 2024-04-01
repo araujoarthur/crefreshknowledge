@@ -1,3 +1,6 @@
+#ifndef UNIONS_H
+#define UNIONS_H
+
 union Data {
     int i;
     float f;
@@ -9,4 +12,6 @@ typedef union _dataSet {
 } DataSet;
 
 void usingTypedef();
-void usingUnionType();;
+void usingUnionType();
+
+#endif

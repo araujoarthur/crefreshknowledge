@@ -11,7 +11,6 @@ int main(void) {
     usingUnionType();
 
     return 0;
-
 }
 
 void usingTypedef() {

@@ -43,5 +43,4 @@ int main(void) {
     printf("~c = %d\n", ~c); // It's the same as doing a bitwise NOT operation on the number. The result is 170.
     printf("~d = %d\n", ~d); // It's the same as doing a bitwise NOT operation on the number. The result is 0.
     printf("~e = %d\n", ~e); // It's the same as doing a bitwise NOT operation on the number. The result is 128.
-    
 }
